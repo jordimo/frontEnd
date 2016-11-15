@@ -1,0 +1,12 @@
+ :host{
+    display: inline;
+     height: 100%;
+     width: 200px;
+ }
+
+
+ .smoochview {
+     display:inline;
+     width: 50%;
+     height: 100%;
+ }
